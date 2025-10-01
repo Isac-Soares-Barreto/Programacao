@@ -1,36 +1,21 @@
-\# 💻 Programação - Portfólio de Estudos
-
-
+# 💻 Programação - Portfólio de Estudos
 
 Repositório para estudos, desenvolvimento pessoal e profissional em programação. Aqui documento minha evolução através de projetos práticos utilizando diferentes linguagens, frameworks e bancos de dados.
 
-
-
-\## 🎯 Sobre
-
-
+## 🎯 Sobre
 
 Este repositório registra minha jornada de desenvolvimento, do nível júnior ao sênior, explorando:
 
+- **Linguagens:** C++, Python, Kotlin, JavaScript, Java, C#, entre outras
 
+- **Frameworks:** wxWidgets, Qt6, Django, Pandas, React.js, Bootstrap, Express.js, etc
 
-\- \*\*Linguagens:\*\* C++, Python, Kotlin, JavaScript, Java, C#, entre outras
+- **Bancos de Dados:** MySQL, Firebase, SQLite, PostgreSQL, MongoDB
 
-\- \*\*Frameworks:\*\* wxWidgets, Qt6, Django, Pandas, React.js, Bootstrap, Express.js, etc
-
-\- \*\*Bancos de Dados:\*\* MySQL, Firebase, SQLite, PostgreSQL, MongoDB
-
-
-
-\## 📁 Exemplo de Estrutura do Repositório
-
-
+## 📁 Exemplo de Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
 
-
-
-```
 
 Programacao/
 
@@ -78,107 +63,67 @@ Programacao/
 
 &nbsp;       └── VSCode/
 
-```
+**Padrão de organização:**
 
-
-
-\*\*Padrão de organização:\*\*
-
-```
 
 Nível → Linguagem → IDE → Nome-do-Projeto → Versão
 
-```
+## 🛠️ Exemplos de Tecnologias Usadas
 
+### Linguagens
 
+- C++, Python, Kotlin, JavaScript, TypeScript, Java, C#
 
-\## 🛠️ Exemplos de Tecnologias Usadas
+### Frontend
 
+- React.js, Vue.js, Bootstrap, HTML/CSS
 
+### Backend
 
-\### Linguagens
+- Django, Express.js, Node.js, Spring Boot
 
-\- C++, Python, Kotlin, JavaScript, TypeScript, Java, C#
+### Desktop
 
+- wxWidgets, Qt6, Electron
 
+### Mobile
 
-\### Frontend
+- Kotlin (Android), React Native
 
-\- React.js, Vue.js, Bootstrap, HTML/CSS
+### Dados
 
+- Pandas, NumPy, Matplotlib
 
+### Bancos de Dados
 
-\### Backend
+- MySQL, PostgreSQL, SQLite, Firebase, MongoDB
 
-\- Django, Express.js, Node.js, Spring Boot
+## 📊 Níveis de Classificação
 
+- **Júnior:** Fundamentos, sintaxe básica, projetos simples
 
+- **Pleno:** Aplicações completas, integração de tecnologias, boas práticas
 
-\### Desktop
+- **Senior:** Arquiteturas complexas, padrões avançados, sistemas escaláveis
 
-\- wxWidgets, Qt6, Electron
+## ⚙️ Como Utilizar
 
+1. **Escolha o software:** Vá até a subpasta correspondente.
 
+2. **Baixe os arquivos:** Faça o download do projeto desejado.
 
-\### Mobile
+3. **Abra no software apropriado:** Utilize a versão indicada para evitar problemas de compatibilidade.
 
-\- Kotlin (Android), React Native
+4. **Edite, explore e aprenda!**
 
+## 👤 Autor
 
+**Isac Soares Barreto**
 
-\### Dados
+- LinkedIn: [linkedin.com/in/isac-engenheiro-mecatronico/](https://linkedin.com/in/isac-engenheiro-mecatronico/)
 
-\- Pandas, NumPy, Matplotlib
+- GitHub: [github.com/Isac-Soares-Barreto](https://github.com/Isac-Soares-Barreto)
 
+## 📜 Licença
 
-
-\### Bancos de Dados
-
-\- MySQL, PostgreSQL, SQLite, Firebase, MongoDB
-
-
-
-\## 📊 Níveis de Classificação
-
-
-
-\- \*\*Júnior:\*\* Fundamentos, sintaxe básica, projetos simples
-
-\- \*\*Pleno:\*\* Aplicações completas, integração de tecnologias, boas práticas
-
-\- \*\*Senior:\*\* Arquiteturas complexas, padrões avançados, sistemas escaláveis
-
-
-
-\## ⚙️ Como Utilizar
-
-
-
-1\. \*\*Escolha o software:\*\* Vá até a subpasta correspondente.  
-
-2\. \*\*Baixe os arquivos:\*\* Faça o download do projeto desejado.  
-
-3\. \*\*Abra no software apropriado:\*\* Utilize a versão indicada para evitar problemas de compatibilidade.  
-
-4\. \*\*Edite, explore e aprenda!\*\*  
-
-
-
-\## 👤 Autor
-
-
-
-\*\*Isac Soares Barreto\*\*
-
-\- LinkedIn: \[linkedin.com/in/isac-engenheiro-mecatronico/](https://linkedin.com/in/isac-engenheiro-mecatronico/)
-
-\- GitHub: \[github.com/Isac-Soares-Barreto](https://github.com/Isac-Soares-Barreto)
-
-
-
-\## 📜 Licença
-
-
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para detalhes.
-
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
