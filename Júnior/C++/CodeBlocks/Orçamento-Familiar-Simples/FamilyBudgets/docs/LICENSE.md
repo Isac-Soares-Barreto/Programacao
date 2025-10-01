@@ -1,7 +1,3 @@
-Com certeza! Aqui está o arquivo `LICENSE.md` completo, baseado no seu modelo e atualizado com as informações do projeto **Kaiser Family Budgets**.
-
----
-
 # 📄 Licença de Uso - Kaiser Family Budgets
 
 Copyright (c) 2025 Isac Soares Barreto
@@ -89,5 +85,6 @@ Para perguntas sobre esta licença ou para solicitar permissões que vão além 
 ---
 
 *Esta licença foi criada especificamente para o projeto Kaiser Family Budgets e tem validade a partir da data de sua publicação no repositório oficial.*
+
 
 **© 2025 Isac Soares Barreto - Todos os direitos reservados**
