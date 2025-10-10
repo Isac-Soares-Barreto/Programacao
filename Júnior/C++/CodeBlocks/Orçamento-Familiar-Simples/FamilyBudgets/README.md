@@ -338,8 +338,9 @@ Este projeto está sob licença personalizada de uso não comercial. Consulte o 
 
 **🚀 Kaiser Family Budgets - Transformando a gestão financeira familiar! 🚀**
 
-![Desenvolvido com ❤️](https://img.shields.io/badge/Desenvolvido%20com-❤️-red?style=for-the-badge)
+![Desenvolvido com ❤️](https://img.shields.io/badge/Desenvolvido%20com-❤️-white?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![wxWidgets](https://img.shields.io/badge/wxWidgets-red?style=for-the-badge)
+
 
 </div>
